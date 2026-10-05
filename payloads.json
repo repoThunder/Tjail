@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ps5-app-dumper",
+    "filename": "ps5-app-dumper_v2.10.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-app-dumper_v2.10.elf",
+    "source": "https://github.com/EchoStretch/ps5-app-dumper/releases",
+    "source_direct": "https://github.com/EchoStretch/ps5-app-dumper/releases/download/v2.10/ps5-app-dumper_v2.10.elf",
+    "description": "A small utility to dump PS5 application files from the console's pfsmnt to a connected USB storage device.",
+    "last_update": "2026-10-03",
+    "version": "v2.10",
+    "category": "Utilities & Tools",
+    "checksum": "c850f1df6f2787824d6ddeeed69ce4144e00569b32135973401c2985cfb0345b"
+  }
+ ]

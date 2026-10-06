@@ -29,7 +29,7 @@
     "url": "https://repothunder.github.io/Tjail/payloads/shadowmountplus_1.6.2.elf",
     "source": "https://github.com/repoThunder/Tjail/tree/main/payloads",
     "source_direct": "https://repothunder.github.io/Tjail/payloads/shadowmountplus_1.6.2.elf",
-    "description": "Thunder shadowmountplus",
+    "description": "Thunder DR Payload",
     "last_update": "2026-10-06",
     "version": "v1.6.2",
     "category": "Networking",
@@ -45,6 +45,6 @@
     "last_update": "2026-10-06",
     "version": "v1.01",
     "category": "Networking",
-    "checksum": "276CA09279C8D2468F0EE0CB4AF838C91DD919B052F189762393E03C8AA87B9C"
+    "checksum": "78CE5EA221B1CE807EB79F2C3CDCC9D5226F33EB586131FC552CEF1A0E13BAE2"
   }
  ]

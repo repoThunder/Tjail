@@ -36,15 +36,15 @@
     "checksum": "8ab32f4cede840a73515c05697fe81759bc98cf41fc22b43e09943262f447e99"
   },
       {
-    "name": "test2",
-    "filename": "test2",
-    "url": "http://192.168.10.104:8000/fixed/4tOaWLAXkpJmPxiP",
-    "source": "http://192.168.10.104:8000/fixed/4tOaWLAXkpJmPxiP",
-    "source_direct": "http://192.168.10.104:8000/fixed/4tOaWLAXkpJmPxiP",
+    "name": "dr-payload",
+    "filename": "dr-payload.elf",
+    "url": "https://repothunder.github.io/Tjail/payloads/dr-payload.elf",
+    "source": "https://github.com/repoThunder/Tjail/tree/main/payloads",
+    "source_direct": "https://repothunder.github.io/Tjail/payloads/dr-payload.elf",
     "description": "Thunder shadowmountplus",
     "last_update": "2026-10-06",
-    "version": "v1.6.2",
+    "version": "v1.00",
     "category": "Networking",
-    "checksum": ""
+    "checksum": "05558C592A4EF4F33BE223E8A2889AEB3BC5FC4C6AF8FFE61E42CCD491C85C73"
   }
  ]

@@ -10,5 +10,29 @@
     "version": "v2.6B-1",
     "category": "Networking",
     "checksum": "512c74a9d6f56bb5a4ab871a0306a8cbefb8b3d5454ba8f1d833b020b245a126"
+  },
+    {
+    "name": "kstuff-1.07",
+    "filename": "kstuff-1.07.elf",
+    "url": "https://repothunder.github.io/Tjail/payloads/kstuff-1.07.elf",
+    "source": "https://github.com/repoThunder/Tjail/tree/main/payloads",
+    "source_direct": "https://repothunder.github.io/Tjail/payloads/kstuff-1.07.elf",
+    "description": "Thunder kstuff",
+    "last_update": "2026-10-06",
+    "version": "v1.07",
+    "category": "Networking",
+    "checksum": "637478d4e953d58721a71c977d0f992fc689063d920c17837496cad516a670ca"
+  },
+    {
+    "name": "shadowmountplus",
+    "filename": "shadowmountplus_1.6.2.elf",
+    "url": "https://repothunder.github.io/Tjail/payloads/shadowmountplus_1.6.2.elf",
+    "source": "https://github.com/repoThunder/Tjail/tree/main/payloads",
+    "source_direct": "https://repothunder.github.io/Tjail/payloads/shadowmountplus_1.6.2.elf",
+    "description": "Thunder shadowmountplus",
+    "last_update": "2026-10-06",
+    "version": "v1.6.2",
+    "category": "Networking",
+    "checksum": "8ab32f4cede840a73515c05697fe81759bc98cf41fc22b43e09943262f447e99"
   }
  ]

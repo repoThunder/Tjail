@@ -41,10 +41,10 @@
     "url": "https://repothunder.github.io/Tjail/payloads/dr-payload.elf",
     "source": "https://github.com/repoThunder/Tjail/tree/main/payloads",
     "source_direct": "https://repothunder.github.io/Tjail/payloads/dr-payload.elf",
-    "description": "Thunder shadowmountplus",
+    "description": "Thunder dr Payload",
     "last_update": "2026-10-06",
-    "version": "v1.01",
+    "version": "v1.02",
     "category": "Networking",
-    "checksum": "78CE5EA221B1CE807EB79F2C3CDCC9D5226F33EB586131FC552CEF1A0E13BAE2"
+    "checksum": "A04A7457D788E362DD82F3318A7A922D7700EF10A97487D326BA4C977CB92803"
   }
  ]

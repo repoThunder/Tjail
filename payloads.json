@@ -1,14 +1,14 @@
 [
   {
-    "name": "ps5-app-dumper",
-    "filename": "ps5-app-dumper_v2.10.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-app-dumper_v2.10.elf",
-    "source": "https://github.com/EchoStretch/ps5-app-dumper/releases",
-    "source_direct": "https://github.com/EchoStretch/ps5-app-dumper/releases/download/v2.10/ps5-app-dumper_v2.10.elf",
-    "description": "A small utility to dump PS5 application files from the console's pfsmnt to a connected USB storage device.",
-    "last_update": "2026-10-03",
-    "version": "v2.10",
-    "category": "Utilities & Tools",
-    "checksum": "c850f1df6f2787824d6ddeeed69ce4144e00569b32135973401c2985cfb0345b"
+    "name": "etaHEN-2.6B-1",
+    "filename": "etaHEN-2.6B-1.bin",
+    "url": "https://repothunder.github.io/Tjail/payloads/etaHEN-2.6B-1.bin",
+    "source": "https://github.com/repoThunder/Tjail/tree/main/payloads",
+    "source_direct": "https://repothunder.github.io/Tjail/payloads/etaHEN-2.6B-1.bin",
+    "description": "Thunder etaHEN",
+    "last_update": "2026-10-06",
+    "version": "v2.6B-1",
+    "category": "Networking",
+    "checksum": "512c74a9d6f56bb5a4ab871a0306a8cbefb8b3d5454ba8f1d833b020b245a126"
   }
  ]

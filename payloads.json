@@ -43,8 +43,8 @@
     "source_direct": "https://repothunder.github.io/Tjail/payloads/dr-payload.elf",
     "description": "Thunder dr Payload",
     "last_update": "2026-10-06",
-    "version": "v1.02",
+    "version": "v1.03",
     "category": "Networking",
-    "checksum": "A04A7457D788E362DD82F3318A7A922D7700EF10A97487D326BA4C977CB92803"
+    "checksum": "9D30B03AAB32BF4B155E5F1FA7C9E4143676EE64B9DADBBAFB793FE15303D10F"
   }
  ]

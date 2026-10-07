@@ -1,40 +1,4 @@
 [
-  {
-    "name": "etaHEN-2.6B-1",
-    "filename": "etaHEN-2.6B-1.bin",
-    "url": "https://repothunder.github.io/Tjail/payloads/etaHEN-2.6B-1.bin",
-    "source": "https://github.com/repoThunder/Tjail/tree/main/payloads",
-    "source_direct": "https://repothunder.github.io/Tjail/payloads/etaHEN-2.6B-1.bin",
-    "description": "Thunder etaHEN",
-    "last_update": "2026-10-06",
-    "version": "v2.6B-1",
-    "category": "Networking",
-    "checksum": "512c74a9d6f56bb5a4ab871a0306a8cbefb8b3d5454ba8f1d833b020b245a126"
-  },
-    {
-    "name": "kstuff-1.07",
-    "filename": "kstuff-1.07.elf",
-    "url": "https://repothunder.github.io/Tjail/payloads/kstuff-1.07.elf",
-    "source": "https://github.com/repoThunder/Tjail/tree/main/payloads",
-    "source_direct": "https://repothunder.github.io/Tjail/payloads/kstuff-1.07.elf",
-    "description": "Thunder kstuff",
-    "last_update": "2026-10-06",
-    "version": "v1.07",
-    "category": "Networking",
-    "checksum": "637478d4e953d58721a71c977d0f992fc689063d920c17837496cad516a670ca"
-  },
-    {
-    "name": "shadowmountplus",
-    "filename": "shadowmountplus_1.6.2.elf",
-    "url": "https://repothunder.github.io/Tjail/payloads/shadowmountplus_1.6.2.elf",
-    "source": "https://github.com/repoThunder/Tjail/tree/main/payloads",
-    "source_direct": "https://repothunder.github.io/Tjail/payloads/shadowmountplus_1.6.2.elf",
-    "description": "Thunder DR Payload",
-    "last_update": "2026-10-06",
-    "version": "v1.6.2",
-    "category": "Networking",
-    "checksum": "8ab32f4cede840a73515c05697fe81759bc98cf41fc22b43e09943262f447e99"
-  },
       {
     "name": "dr-payload",
     "filename": "dr-payload.elf",
@@ -46,17 +10,5 @@
     "version": "v1.03",
     "category": "Networking",
     "checksum": "9D30B03AAB32BF4B155E5F1FA7C9E4143676EE64B9DADBBAFB793FE15303D10F"
-  },
-  {
-    "name": "singleDPI",
-    "filename": "singleDPI.elf",
-    "url": "https://repothunder.github.io/Tjail/payloads/singleDPI.elf",
-    "source": "https://github.com/repoThunder/Tjail/tree/main/payloads",
-    "source_direct": "https://repothunder.github.io/Tjail/payloads/singleDPI.elf",
-    "description": "PS5 Direct Package Installer (singleDPI)",
-    "last_update": "2026-10-07",
-    "version": "v0.2.2",
-    "category": "Package Installer",
-    "checksum": "7955CC2DCEBC33898EE8AA66A82ED02384E2C7769127D11159774AF504C1879B"
   }
  ]

@@ -46,5 +46,17 @@
     "version": "v1.03",
     "category": "Networking",
     "checksum": "9D30B03AAB32BF4B155E5F1FA7C9E4143676EE64B9DADBBAFB793FE15303D10F"
+  },
+  {
+    "name": "singleDPI",
+    "filename": "singleDPI.elf",
+    "url": "https://repothunder.github.io/Tjail/payloads/singleDPI.elf",
+    "source": "https://github.com/repoThunder/Tjail/tree/main/payloads",
+    "source_direct": "https://repothunder.github.io/Tjail/payloads/singleDPI.elf",
+    "description": "PS5 Direct Package Installer (singleDPI)",
+    "last_update": "2026-10-07",
+    "version": "v0.2.2",
+    "category": "Package Installer",
+    "checksum": "7955CC2DCEBC33898EE8AA66A82ED02384E2C7769127D11159774AF504C1879B"
   }
  ]
